@@ -1,0 +1,15 @@
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Weather.exe.manifest
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Weather.application
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Weather.exe
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Weather.pdb
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Weather.xml
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\bin\Release\Newtonsoft.Json.dll
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.vbprojResolveAssemblyReference.cache
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\WindowsApplication1.Weather.resources
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.vbproj.GenerateResource.Cache
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.exe.manifest
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.application
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.exe
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.xml
+C:\Users\FlorinB\documents\visual studio 2010\Projects\Weather\Weather\obj\x86\Release\Weather.pdb
